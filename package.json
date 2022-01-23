@@ -1,0 +1,21 @@
+{
+    "name": "importsV3-CommonJS",
+    "version": "1.0.0",
+    "description": "Práctica 8 - Trabajando con imports",
+    "main": "index.js",
+    "scripts": {
+        "start": "parcel index.html",
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/citrica/imports.git"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/citrica/imports/issues"
+    },
+    "homepage": "https://github.com/citrica/imports#readme"
+}
